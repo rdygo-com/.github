@@ -10,7 +10,7 @@ Twenty-plus years of shipping software. No vendor roulette, no committee design,
 
 | Product | What it is | Status |
 |---|---|---|
-| **[PulseAugur](https://pulseaugur.com)** | Signal-ranked AI news. 200+ sources clustered into one feed. The first product launched under RdyGo's holding-company phase (2026). | Shipping |
+| **[PulseAugur](https://pulseaugur.com)** | Signal-ranked AI news. 200+ sources clustered into one feed. The first product launched under RdyGo's holding-company phase (2026). | Just launched |
 | **[Vault](https://rdygo.com/portfolio/vault/)** | Shopify promotions and sales management — automated discounts, scheduled campaigns, tag-based targeting. | Shipping |
 | **[OpenRevKit](https://rdygo.com/portfolio/openrevkit/)** | Self-hosted subscription billing infrastructure. Your data, your stack, your margins. | Early access |
 | **[InvokePlane](https://rdygo.com/portfolio/invokeplane/)** | Observability and control plane for production AI agents. Streaming sessions, eval-gated publishing, bring-your-own-keys. | Shipping |
